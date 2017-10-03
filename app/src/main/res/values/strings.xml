@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoPickPhoto</string>
+    <string name="pickphoto">Pick From Gallery</string>
+
+</resources>
